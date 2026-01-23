@@ -1,6 +1,6 @@
 # BOLT
 
-Bolt is an open-source platform built for Boston Blerds for building and operating online communities, combining moderation tools, engagement systems, and analytics with a strong emphasis on consent, security, and user experience.
+Bolt is an open-source platform originally designed for Boston Blerds, created for building and operating online communities, combining moderation tools, engagement systems, and analytics with a strong emphasis on consent, security, and user experience.
 
 ## Setup
 
